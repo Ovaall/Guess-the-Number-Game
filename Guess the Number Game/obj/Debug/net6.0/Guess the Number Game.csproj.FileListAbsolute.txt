@@ -1,0 +1,15 @@
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\bin\Debug\net6.0\Guess the Number Game.exe
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\bin\Debug\net6.0\Guess the Number Game.deps.json
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\bin\Debug\net6.0\Guess the Number Game.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\bin\Debug\net6.0\Guess the Number Game.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\bin\Debug\net6.0\Guess the Number Game.pdb
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\refint\Guess the Number Game.dll
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.pdb
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\Guess the Number Game.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\Guess the Number Game\Guess the Number Game\obj\Debug\net6.0\ref\Guess the Number Game.dll
