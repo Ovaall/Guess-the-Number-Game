@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GuessTheNumberGame
+namespace GuessTheNumberGame //made by openai!
 {
     class Program
     {
